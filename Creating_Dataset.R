@@ -1,5 +1,4 @@
-
-
+####### Clearing data set and some essential plots for the analysis #######
 ###### Loading Packages ######
 library(tidyquant)
 library(ggplot2)
